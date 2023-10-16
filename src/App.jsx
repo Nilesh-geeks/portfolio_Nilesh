@@ -14,19 +14,19 @@ const App = () => {
 
         <div className='relative z-0'>
           <Experience />
-          <StarsCanvas />
+          {/* <StarsCanvas /> */}
         </div>
         <div className='relative z-0'>
           <Tech />
-          <StarsCanvas />
+          {/* <StarsCanvas /> */}
         </div>
         <div className='relative z-0'>
           <Works />
-          <StarsCanvas />
+          {/* <StarsCanvas /> */}
         </div>
         <div className='relative z-0'>
           <Feedbacks />
-          <StarsCanvas />
+          {/* <StarsCanvas /> */}
         </div>
         <div className='relative z-0'>
           <Contact />
