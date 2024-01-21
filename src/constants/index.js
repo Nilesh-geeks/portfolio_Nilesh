@@ -56,7 +56,7 @@ export const navLinks = [
 ];
 export const navLink = [
   {
-    id: "https://leetcode.com/Nilesh-900/",
+    id: "https://leetcode.com/Nilesh-geeks/",
     image: LeetCode,
     title: "Github",
   },
@@ -66,12 +66,12 @@ export const navLink = [
     title: "Leetcode",
   },
   {
-    id: "https://www.linkedin.com/in/nilesh-gupta-59a733205",
+    id: "https://www.linkedin.com/in/nilesh-geeks",
     image: linkedin,
     title: "Linkedin",
   },
   {
-    id: "https://drive.google.com/file/d/1MsatoXbUH5BfStTZCYrycsyAL14C-xdC/view?usp=sharing",
+    id: "https://drive.google.com/file/d/10QvEe-nlM8h535yHoquItsEj7bANcW86/view?usp=sharing",
     image: driv,
     title: "Download CV",
   },
@@ -217,7 +217,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "News App",
     description:
       "News-App for displaying the news on the website for the different sections like Tech, Entertainment, Sports, Education , etc.",
     tags: [
