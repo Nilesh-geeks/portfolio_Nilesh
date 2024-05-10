@@ -71,7 +71,7 @@ export const navLink = [
     title: "Linkedin",
   },
   {
-    id: "https://drive.google.com/file/d/10QvEe-nlM8h535yHoquItsEj7bANcW86/view?usp=sharing",
+    id: "https://drive.google.com/file/d/1lUE0zbxrGiKqPGF1dEBsb0Kd2aCOTGqD/view?usp=sharing",
     image: driv,
     title: "Download CV",
   },
